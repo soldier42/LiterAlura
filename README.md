@@ -1,7 +1,7 @@
 <h1 align="center">LiterAlura</h1>
 
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=00FF00&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM ANDAMENTO&color=FF0000&style=for-the-badge"/>
 </p>
 
 # Índice
@@ -39,9 +39,6 @@ A aplicação é intuitiva, portanto basta que o usuário siga as instruções d
 ```
 
 ## Observações
-Para bom funcionamento do código, é recomendado que:
-- Utilize-se apenas valores **reais** nas **conversões** entres moedas;
-- Utilize-se apenas valores **inteiros** nas **seleções de ações**;
 
 O código possui alguns tratamentos de erros, mas não é garantido que ele funcione como deva em qualquer situação.
 
